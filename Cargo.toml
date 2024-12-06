@@ -1,0 +1,9 @@
+[package]
+name = "rustpython_example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rustpython-vm = "0.4.0"
+serde_json = "1.0.133"
+rustpython-stdlib = "0.4.0"
